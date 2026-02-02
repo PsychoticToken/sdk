@@ -1,0 +1,11 @@
+{
+  "name": "psychotic",
+  "version": "0.1.0",
+  "description": "You're not crazy — you're just 100x away from being called a genius.",
+  "bin": {
+    "psychotic": "./index.js"
+  },
+  "type": "module",
+  "keywords": ["mindset", "genius", "manifesto", "cli"],
+  "license": "MIT"
+}
